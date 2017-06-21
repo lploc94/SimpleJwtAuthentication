@@ -1,0 +1,9 @@
+c:\users\thorn\documents\visual studio 2017\Projects\jwt\jwt\bin\Debug\netcoreapp1.1\jwt.deps.json
+c:\users\thorn\documents\visual studio 2017\Projects\jwt\jwt\bin\Debug\netcoreapp1.1\jwt.runtimeconfig.json
+c:\users\thorn\documents\visual studio 2017\Projects\jwt\jwt\bin\Debug\netcoreapp1.1\jwt.runtimeconfig.dev.json
+c:\users\thorn\documents\visual studio 2017\Projects\jwt\jwt\bin\Debug\netcoreapp1.1\jwt.dll
+c:\users\thorn\documents\visual studio 2017\Projects\jwt\jwt\obj\Debug\netcoreapp1.1\jwt.csprojResolveAssemblyReference.cache
+c:\users\thorn\documents\visual studio 2017\Projects\jwt\jwt\obj\Debug\netcoreapp1.1\jwt.AssemblyInfo.cs
+c:\users\thorn\documents\visual studio 2017\Projects\jwt\jwt\bin\Debug\netcoreapp1.1\jwt.pdb
+c:\users\thorn\documents\visual studio 2017\Projects\jwt\jwt\obj\Debug\netcoreapp1.1\jwt.dll
+c:\users\thorn\documents\visual studio 2017\Projects\jwt\jwt\obj\Debug\netcoreapp1.1\jwt.pdb
